@@ -24,9 +24,10 @@ function setup(){
   
 }
 
+
 function draw() {
   background(0);
-  sea.velocityX = -3;
+  sea.velocityX = -4;
 
   
   //código para redefinir o plano de fundo
